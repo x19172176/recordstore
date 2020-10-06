@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\src",
+    "\\src\\backend",
+    "\\src\\backend\\axios"
+  ],
+  "SelectedNode": "\\src\\backend\\axios\\index.js",
+  "PreviewInSolutionExplorer": false
+}
