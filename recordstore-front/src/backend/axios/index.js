@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = 'hhttps://limitless-island-64191.herokuapp.com/'
+const API_URL = 'https://enigmatic-dusk-91030.herokuapp.com/'
 
 const securedAxiosInstance = axios.create({
   baseURL: API_URL,
