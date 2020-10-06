@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\controllers\\api",
+    "\\app\\controllers\\api\\v1",
+    "\\recordstore-front",
+    "\\recordstore-front\\src",
+    "\\recordstore-front\\src\\backend\\axios",
+    "\\recordstore-front\\src\\components\\artists",
+    "\\recordstore-front\\src\\components\\records",
+    "\\recordstore-front\\static"
+  ],
+  "SelectedNode": "\\config",
+  "PreviewInSolutionExplorer": false
+}

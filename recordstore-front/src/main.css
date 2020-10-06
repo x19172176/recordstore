@@ -1,0 +1,40 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+.input {
+  @apply appearance-none block w-full bg-gray-300 text-gray-600 border border-gray-300 rounded py-3 px-4 leading-tight;
+}
+
+.input:focus {
+  @apply outline-none bg-white border-gray-200;
+}
+
+.label {
+  @apply block uppercase tracking-wide text-gray-600 text-xs font-bold mb-2;
+}
+
+.select {
+  @apply appearance-none py-3 px-4 pr-8 block w-full bg-gray-300 border border-gray-300 text-gray-600
+   rounded leading-tight;
+   -webkit-appearance: none;
+}
+
+.select:focus {
+  @apply outline-none bg-white border-gray-200;
+}
+
+.link {
+  @apply no-underline;
+}
+
+.link-gray {
+  @apply text-gray-500;
+}
+
+.link-gray:hover {
+  @apply text-gray-600;
+}
